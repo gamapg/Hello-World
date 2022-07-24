@@ -1,8 +1,7 @@
 # Hello-World
-For the sake of tutorial.
+For the tutorial.
 
 ###Edit 1
 
-I am a dumb brat
 
 ###
